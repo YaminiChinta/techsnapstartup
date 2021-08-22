@@ -138,24 +138,9 @@ body {
 body{
   overflow-x: hidden;
 }
-.contact {
-  text-align: start;
-  padding: 50px;
-  margin-right: 50px;
-  background-color: rgb(0, 0, 0);
-}
-.contact .form{
-  padding-left: 130px;
-  margin-left: 100px;
-}
-.contact h3{
+
+.ycontact h3{
   color:palevioletred;
-}
-.contact input{
-  width: 75%;
-}
-.contact textarea{
-  width: 50%;
 }
 
 
